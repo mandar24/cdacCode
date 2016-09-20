@@ -1,0 +1,41 @@
+article
+{
+    width:75%;
+    box-shadow:0px 0px 2px #666; 
+    margin:150px 0px 0px 130px;
+    border-left:8px solid #fcc974; 
+    padding:10px 0px 20px 0px;
+}
+
+#reghead
+{
+    letter-spacing:1px;
+    padding:10px 15px 10px 15px;
+    width:770px;
+    font-size:20px;
+}
+#reghead h4
+{
+    color:#5398b1;
+    margin:0;
+    font-size:18px;
+    font-weight:300; 
+}
+#reginfo
+{
+    width:600px;
+    margin-left:100px;
+}
+#reginfo table
+{
+    width:700px;
+    margin-top:20px; 
+}
+#reginfo table td
+{ 
+    padding:10px 0px 10px 0px; 
+}
+#sbm
+{
+    margin:20px 0px 0px 220px;
+}

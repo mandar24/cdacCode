@@ -1,0 +1,104 @@
+article
+{
+    box-shadow:0px 0px 4px #666;
+    width:90%;
+    margin:130px 0px 0px 60px;
+    height:420px;
+    border-left:8px solid #fcc974; 
+}
+section
+{
+    position:absolute;
+/*    border:1px solid;*/
+    width:85%;
+    margin:20px 20px 20px 30px;
+    height:390px;
+}
+section li
+{
+    color: #052c49;
+    padding:0px 0px 10px 0px;
+    font-weight:200;
+}
+aside
+{
+    float:left;
+}
+article h1
+{
+    font-size:40px;
+    font-weight:100;
+    color: #059e56;
+    margin:40px 0px 0px 0px; 
+}
+article h3
+{
+    font-size:18px;
+    font-weight:300;
+    color: #5398b1;
+}
+article p
+{
+    font-size:16px;
+    text-align:justify;
+    width:500px;
+    line-height:30px;
+    letter-spacing:1px; 
+}
+#formcontainer
+{
+    float:right;
+    box-shadow:0px 0px 2px #666;
+    height:320px;
+    width:330px;
+    margin-right:100px; 
+    padding:10px;
+    margin:20px 0px 0px 0px;
+}
+#formcontainer table td
+{
+    padding:10px;
+    height:55px;
+/*    border:1px solid;*/
+    width:100px;
+}
+#buttongrp
+{
+    width:200px;
+}
+#knw{float:left;margin:20px 0px 0px 0px;}
+#reg{float:right;margin:20px 0px 0px 0px;}
+#bck
+{
+    position:absolute;
+    float:right;
+    right:0;
+    bottom:10px;
+}
+#forgot
+{
+    margin:auto 10px;
+    text-decoration:none;
+    color:#000;
+}
+#fltleft
+{
+    float:left;
+    width:400px;
+}
+#fltrigt
+{
+    float:right;
+    width:400px;
+/*    border:1px solid; */
+    height:300px;
+}
+#fltrigt img
+{
+    height:50px;
+    width:50px;
+}
+#fltrigt td
+{
+    height:60px;
+}
